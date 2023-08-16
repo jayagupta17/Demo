@@ -1,1 +1,2 @@
-print("Hi")
+print("Hi!!")
+print("Let's start")
